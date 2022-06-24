@@ -1,0 +1,11 @@
+commit 7ed2447f49412179a5272e51daa91b36ab3438ed
+Author: Juan Camilo Duque Gil <kcamilito@gmail.com>
+Date:   Tue Jun 21 21:38:44 2022 -0500
+
+    Estructura basica del html
+
+commit 000fbef4531d3506d2d888e750018f0e42b6aea6
+Author: Juan Camilo Duque Gil <kcamilito@gmail.com>
+Date:   Tue Jun 21 21:00:53 2022 -0500
+
+    Punto de guardado uno, Inicializando el repositorio
